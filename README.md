@@ -1,3 +1,8 @@
+## Project Links
+
+- **Repository:** https://github.com/akhil-bs-codes/project-manager
+- **Repository (git):** `https://github.com/akhil-bs-codes/project-manager`
+
 # Project Manager - Task Management Application
 
 A lightweight, PHP-based task management application designed for simplicity and ease of use.
